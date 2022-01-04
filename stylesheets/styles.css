@@ -1,12 +1,14 @@
 body {
 	background-color: rgb(241, 227, 144);
+	text-align: center;
 }
 
 p {
-	font-size: 38px;
+	font-size: 21px;
 }
 
 
 .paybutton {
 	color:blue;
+	
 }
