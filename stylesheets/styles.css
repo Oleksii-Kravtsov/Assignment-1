@@ -1,9 +1,10 @@
 body {
 	background-color: rgb(241, 227, 144);
+	text-align: center;
 }
 
 p {
-	font-size: 38px;
+	font-size: 21px;
 }
 
 .heading{
@@ -22,6 +23,7 @@ p {
 
 .paybutton {
 	color:blue;
+<<<<<<< HEAD
 }
 
 .container {
@@ -54,4 +56,7 @@ p {
 	text-decoration: none;
 
 
+=======
+	
+>>>>>>> e2612f9e88ba00566a9338cf4c52b35700c76af5
 }

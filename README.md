@@ -1,2 +1,1 @@
-# Assignment-1
-passionate project
+pizza and donations(to me)
