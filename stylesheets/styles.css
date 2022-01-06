@@ -1,5 +1,7 @@
 body {
 	background-color: rgb(241, 227, 144);
+	text-align: center;
+	margin:  0;
 }
 
 p {
@@ -26,6 +28,14 @@ p {
 .paybutton {
 	color:blue;
 }
+.button {
+  	background-color: gray;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 16px;
+}
 
 .container {
 	
@@ -37,35 +47,39 @@ p {
 
 }
 .logo {
-	border-radius: 50%;
 	width: 50px;
-	overflow: hidden;
-	margin-top: 10px;
+	border-radius: 50%;
+	margin-top: 15px;
 	margin-left: 5px;
-
 	float: left;
-	display: inline-block;
-
 }
+
 .bar {
-	border:1px solid #ccc;
-    border-width:1px 0;
-    list-style:none;
-    margin:0 auto;
-    padding:0;
+	border:1px;
+    list-style-type:none;
+ 	padding:0;
+ 	margin: 0;
     text-align:center;
     background-color: black;
+
 
 }
 .bar li {
 	display: inline;
+	margin-left: -45px;
+	margin-right: 25px;
+
 	
 }
 .bar a{
+
 	display: inline-block;
 	color: white;
 	padding: 20px;
 	text-decoration: none;
+	font-size: 25px;
+
 
 
 }
+
