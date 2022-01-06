@@ -1,11 +1,12 @@
 body {
 	background-color: rgb(241, 227, 144);
-	text-align: center;
 }
 
 p {
 	font-size: 21px;
 }
+
+
 
 .heading{
 	text-align: center;
@@ -15,15 +16,15 @@ p {
 
 	border: 2px;
 	border-style: solid;
-	width: 50%;
+	width: 25%;
 	text-align: center;
-	margin: 5px auto;
+	margin: 10px auto;
+	padding: 5px 20px;
 }
 
 
 .paybutton {
 	color:blue;
-<<<<<<< HEAD
 }
 
 .container {
@@ -33,7 +34,7 @@ p {
 .image {
 	width: 20%;
 	padding-bottom: 20px;
-	margin: auto;
+
 }
 .bar {
 	border:1px solid #ccc;
@@ -56,7 +57,4 @@ p {
 	text-decoration: none;
 
 
-=======
-	
->>>>>>> e2612f9e88ba00566a9338cf4c52b35700c76af5
 }
