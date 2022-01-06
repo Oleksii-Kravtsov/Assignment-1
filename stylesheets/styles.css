@@ -36,6 +36,17 @@ p {
 	padding-bottom: 20px;
 
 }
+.logo {
+	border-radius: 50%;
+	width: 50px;
+	overflow: hidden;
+	margin-top: 10px;
+	margin-left: 5px;
+
+	float: left;
+	display: inline-block;
+
+}
 .bar {
 	border:1px solid #ccc;
     border-width:1px 0;
